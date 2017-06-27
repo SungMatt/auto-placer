@@ -16,10 +16,10 @@ class AutoPlacer {
 		/* Literals */
 		this.RECAPTCHA_TITLE = "recaptcha challenge";
 		this.REDDIT = "reddit.com";
-		this.PIXLS = "pxls.space";
+		this.PIXLS = "nushexcite.fun";
 
 		/* Init the needed members */
-		this.WAIT_TIME = 3;
+		this.WAIT_TIME = 1;
 		this.captchaVisible = undefined;
 		this.checkCaptchaRecovered = false;
 		this.system = window.location.hostname;
